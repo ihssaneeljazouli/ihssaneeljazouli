@@ -22,6 +22,33 @@ Outils : Git, GitHub, Docker
 Français (bilingue), Arabe (maternelle), Anglais (C1), Turc (A1)
 
 ---
+## 📚 Projets académiques  
+
+- 🖼️ **CIFAR-100 – Classification d’images**  
+  Implémentation et comparaison de modèles **MLP, CNN et RNN** sur le dataset CIFAR-100.  
+  *Outils : 🐍 Python, 🔥 PyTorch, 🔢 NumPy, 📊 Matplotlib, ☁️ Google Colab*  
+
+- 🎮 **Jeu Uno – Application solo & multijoueur**  
+  Conception, développement et déploiement d’une application Uno (**solo** & **multijoueur**).  
+  *Outils : ☕ Java, 🎨 JavaFX, 🌱 Spring Boot*  
+
+- 🔐 **Sécurité réseau – Canal caché ICMP**  
+  Développement d’un **canal caché basé sur ICMP**, d’un détecteur et d’une stratégie de mitigation dans un environnement conteneurisé.  
+  *Outils : 🐍 Python, 💻 C, 🐳 Docker*  
+
+- 🏢 **Application web de réservation de salles**  
+  Projet en groupe : développement d’une application web pour la **réservation de salles et de fournitures événementielles**, incluant la gestion des comptes utilisateurs.  
+  *Outils : ☕ Java, 🌱 Spring Boot, 🗄️ H2, 🌐 HTML/CSS*  
+
+- 🌀 **Application de morphing d’images**  
+  Projet en groupe : création d’une application permettant le **morphing d’images et de formes** (simples et arrondies).  
+  *Outils : ☕ Java, 🎨 JavaFX*  
+
+- 💌 **Site web de rencontres**  
+  Projet en groupe : développement d’un **site web de rencontres** avec interface utilisateur interactive.  
+  *Outils : 🐘 PHP, ✨ JavaScript, 🌐 HTML/CSS*
+  
+---
 
 ## 🎯 Objectif
 
