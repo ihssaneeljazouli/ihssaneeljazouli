@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Ihssane EL JAZOULI
 
 🎓 Étudiante en 3ᵉ année de cycle ingénieur à CY Tech – spécialité Intelligence Artificielle  
-🔍 À la recherche d'une alternance à partir de septembre 2025 dans les domaines de l'intelligence artificielle, data science ou computer vision  
+🔍 À la recherche d'un stage de fin d'études - 6 mois à partir d'avril 2026-  dans les domaines de l'intelligence artificielle, data science ou computer vision  
 🌍 Expériences internationales : France 🇫🇷 | Maroc 🇲🇦 | Turquie 🇹🇷
 
 ---
@@ -71,7 +71,7 @@ Je souhaite intégrer une équipe où je pourrai :
 # 👋 Hello, I’m Ihssane EL JAZOULI
 
 🎓 Final-year engineering student at CY Tech (France), majoring in Artificial Intelligence  
-🔍 Looking for a **work-study/apprenticeship (alternance)** opportunity starting **September 2025** in AI, data science, or computer vision  
+🔍 Looking for a **6 months internship** opportunity starting **April 2026** in AI, data science, or computer vision  
 🌍 International experience: France 🇫🇷 | Morocco 🇲🇦 | Turkey 🇹🇷
 
 ---
